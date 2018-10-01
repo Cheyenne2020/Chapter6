@@ -1,11 +1,10 @@
 package excercises;
 
-public class CountByThrees {
+public class CountByAnything {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
 	}
 
 }
