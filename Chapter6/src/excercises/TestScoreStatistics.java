@@ -13,11 +13,12 @@ public class TestScoreStatistics {
 		int low = 100;
 		int avg;
 		int total = 0;
-		System.out.print("Enter a number to exit enter 999 >>>");
-		userChoice = input.nextInt();
+		
 		
 		do
 		{
+			System.out.print("Enter a number to exit enter 999 >>>");
+		userChoice = input.nextInt();
 			if(userChoice > high) 
 			{
 				high = userChoice;
